@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Joel-Njoku
-- 👀 I’m interested in developing Web Applications and Wedsite developments
+- 👀 I’m interested in design and development of Websites and Web Applications
 - 🌱 I’m currently learning HTML, CSS, and Javascript for Web Developers at Coursera
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me ...
